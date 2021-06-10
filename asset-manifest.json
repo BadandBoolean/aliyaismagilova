@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aliyaismagilova/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/aliyaismagilova/static/js/main.0f09bb9d.chunk.js",
+    "main.js.map": "/aliyaismagilova/static/js/main.0f09bb9d.chunk.js.map",
+    "runtime-main.js": "/aliyaismagilova/static/js/runtime-main.e1987475.js",
+    "runtime-main.js.map": "/aliyaismagilova/static/js/runtime-main.e1987475.js.map",
+    "static/js/2.d4705023.chunk.js": "/aliyaismagilova/static/js/2.d4705023.chunk.js",
+    "static/js/2.d4705023.chunk.js.map": "/aliyaismagilova/static/js/2.d4705023.chunk.js.map",
+    "static/js/3.94d90ace.chunk.js": "/aliyaismagilova/static/js/3.94d90ace.chunk.js",
+    "static/js/3.94d90ace.chunk.js.map": "/aliyaismagilova/static/js/3.94d90ace.chunk.js.map",
+    "index.html": "/aliyaismagilova/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/aliyaismagilova/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d4705023.chunk.js.LICENSE.txt": "/aliyaismagilova/static/js/2.d4705023.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aliyaismagilova/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1987475.js",
+    "static/js/2.d4705023.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0f09bb9d.chunk.js"
+  ]
+}
